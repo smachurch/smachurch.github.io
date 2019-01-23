@@ -31,6 +31,13 @@ h3 {
 
 img { max-width: 100%; }
 
+.icon-logo {
+	background: url("../ico/favicon.png");
+	height: 100%;
+	width:100%;
+	display:block;
+}
+
 .medium-paragraph {
 	font-size: 17px;
 	line-height: 32px;
