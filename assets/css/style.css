@@ -10,7 +10,7 @@ body {
 
 strong { font-weight: 600; }
 
-a, a:hover, a:focus { color: #9b59b6; text-decoration: none; transition: all .3s; }
+a, a:hover, a:focus { color: #9b59b6; text-decoration: none;}
 
 
 h1 {
@@ -41,13 +41,6 @@ h3 {
 }
 
 img { max-width: 100%; }
-
-.icon-logo {
-	background: url("../ico/favicon.png");
-	height: 100%;
-	width:100%;
-	display:block;
-}
 
 .medium-paragraph {
 	font-size: 17px;
@@ -111,7 +104,7 @@ img { max-width: 100%; }
     line-height: 48px;
     color: #fff;
     border-radius: 4px;
-    transition: all .3s;
+    transition: all .0s;
 }
 .btn-link-1:hover, .btn-link-1:focus, .btn-link-1:active, .btn-link-1:active:focus,
 .btn-link-1.btn-primary:not(:disabled):not(.disabled):active,
@@ -136,7 +129,7 @@ img { max-width: 100%; }
     line-height: 48px;
     color: #fff;
     border-radius: 4px;
-    transition: all .3s;
+    transition: all .0s;
 }
 .btn-link-2:hover, .btn-link-2:focus, .btn-link-2:active, .btn-link-2:active:focus,
 .btn-link-2.btn-primary:not(:disabled):not(.disabled):active,
@@ -157,7 +150,7 @@ img { max-width: 100%; }
     line-height: 48px;
     color: #9b59b6;
     border-radius: 0;
-    transition: all .3s;
+    transition: all .0s;
 }
 .btn-link-3:hover, .btn-link-3:focus, .btn-link-3:active, .btn-link-3:active:focus,
 .btn-link-3.btn-primary:not(:disabled):not(.disabled):active,
@@ -185,7 +178,7 @@ img { max-width: 100%; }
 
 .navbar {
 	background: #444;
-	-o-transition: all .6s; -moz-transition: all .6s; -webkit-transition: all .6s; -ms-transition: all .6s; transition: all .6s;
+	-o-transition: all .0s; -moz-transition: all .0s; -webkit-transition: all .0s; -ms-transition: all .0s; transition: all .0s;
 	backface-visibility: hidden;
 }
 .navbar.navbar-no-bg { background: #444; background: rgba(0, 0, 0, 0.2); }
@@ -355,7 +348,7 @@ img { max-width: 100%; }
 }
 
 .portfolio-box-image img {
-	-o-transition: all .8s; -moz-transition: all .8s; -webkit-transition: all .8s; -ms-transition: all .8s; transition: all .8s;
+	-o-transition: all .0s; -moz-transition: all .0s; -webkit-transition: all .0s; -ms-transition: all .0s; transition: all .0s;
 }
 
 .portfolio-box-image:hover img {
@@ -371,7 +364,7 @@ img { max-width: 100%; }
 .portfolio-box h3 i {
 	padding-left: 10px;
 	color: #ccc;
-	-o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
+	-o-transition: all .0s; -moz-transition: all .0s; -webkit-transition: all .0s; -ms-transition: all .0s; transition: all .0s;
 }
 .portfolio-box h3:hover i { padding-left: 15px; }
 
@@ -478,7 +471,7 @@ img { max-width: 100%; }
 }
 
 .blog-box-image img {
-	-o-transition: all .8s; -moz-transition: all .8s; -webkit-transition: all .8s; -ms-transition: all .8s; transition: all .8s;
+	-o-transition: all .0s; -moz-transition: all .0s; -webkit-transition: all .0s; -ms-transition: all .0s; transition: all .0s;
 }
 
 .blog-box-image:hover img {
@@ -494,7 +487,7 @@ img { max-width: 100%; }
 .blog-box h3 i {
 	padding-left: 10px;
 	color: #ccc;
-	-o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
+	-o-transition: all .0s; -moz-transition: all .0s; -webkit-transition: all .0s; -ms-transition: all .0s; transition: all .0s;
 }
 .blog-box h3:hover i { padding-left: 15px; }
 
