@@ -12,16 +12,14 @@ strong { font-weight: 600; }
 
 a, a:hover, a:focus { color: #9b59b6; text-decoration: none;}
 
-
-h1 {
+h2large {
 	margin-top: 10px;
 	font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif;
-	font-size: 69px;
+	font-size: 68px;
     font-weight: 500;
     color: #000;
     line-height: 50px;
 }
-
 
 h2 {
 	margin-top: 10px;

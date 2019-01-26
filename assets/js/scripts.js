@@ -26,13 +26,22 @@ jQuery(document).ready(function() {
 		$('nav').toggleClass('navbar-no-bg');
 	});
 	
+	$('.nav-link').on('click',function() {	
+		if(this.id!=='navbarDropdown')
+			$('.navbar-collapse').collapse('hide');
+	  });
+
+	  $('.dropdown-item').on('click',function() {	
+			$('.navbar-collapse').collapse('hide');
+	  });
+
     /*
         Background slideshow
     */
-    $('.top-content').backstretch("assets/img/backgrounds/1.jpg");
+    /*$('.top-content').backstretch("assets/img/backgrounds/1.jpg");
     $('.call-to-action-container').backstretch("assets/img/backgrounds/1.jpg");
     $('.testimonials-container').backstretch("assets/img/backgrounds/1.jpg");
-    
+    */
     $('#top-navbar-1').on('shown.bs.collapse', function(){
     	$('.top-content').backstretch("resize");
     });
