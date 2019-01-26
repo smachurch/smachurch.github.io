@@ -38,6 +38,11 @@ h3 {
     line-height: 30px;
 }
 
+.navbar-header {
+	z-index: 100;
+ 
+ }
+ 
 img { max-width: 100%; }
 
 .medium-paragraph {
@@ -192,13 +197,14 @@ html, body{
 
 .navbar-expand-md .navbar-nav .nav-link { padding-left: 1rem; padding-right: 1rem; }
 
-.navbar-brand {
+/*.navbar-brand {
 	width: 36px;
 	height: 37px;
 	background: url(../img/logo.png) left center no-repeat;
 	border: 0;
 	text-indent: -99999px;
-}
+}*/
+
 
 
 /***** Top content *****/
