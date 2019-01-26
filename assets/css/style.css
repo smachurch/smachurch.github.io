@@ -38,11 +38,20 @@ h3 {
     line-height: 30px;
 }
 
+
+smallh3 {
+	font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif;
+	font-size: 18px;
+    font-weight: 500;
+    color: #000;
+    line-height: 30px;
+}
+
 .navbar-header {
 	z-index: 100;
  
  }
- 
+
 img { max-width: 100%; }
 
 .medium-paragraph {
