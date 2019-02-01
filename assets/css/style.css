@@ -5,7 +5,7 @@ body {
     font-weight: 500;
     color: #000;
     line-height: 30px;
-    text-align: center;
+    text-align: left;
 }
 
 strong { font-weight: 600; }
@@ -24,7 +24,7 @@ h2large {
 h2 {
 	margin-top: 10px;
 	font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif;
-	font-size: 38px;
+	font-size: 28px;
     font-weight: 500;
     color: #000;
     line-height: 50px;
@@ -255,7 +255,7 @@ html, body{
     font-size: 20px;
     color: #fff;
     line-height: 40px;
-    text-align: center;
+    text-align: left;
     border-radius: 28px;
 }
 
@@ -299,7 +299,7 @@ html, body{
     font-size: 40px;
     color: #fff;
     line-height: 40px;
-    text-align: center;
+    text-align: left;
     border-radius: 28px;
     
     background: #9b59b6; /* Old browsers */
@@ -326,7 +326,7 @@ html, body{
     font-size: 28px;
     color: #fff;
     line-height: 60px;
-    text-align: center;
+    text-align: left;
     border-radius: 22px;
     
     background: #9b59b6; /* Old browsers */
